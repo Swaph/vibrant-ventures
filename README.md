@@ -21,7 +21,7 @@ Vibrant Ventures specializes in organizing unforgettable adventures, from nature
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Swaph/vibrant-ventures-website.git
+    git clone https://github.com/Swaph/vibrant-ventures.git
     ```
 2. **Open the website**:
    Navigate to any of the `.html` files (e.g., `index.html`) in a browser to view the website.
